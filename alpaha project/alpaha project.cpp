@@ -14,7 +14,7 @@ cout <<" surroundings. Typing commands gives you a list of all the possible comm
 cout <<" take,look at (object),examine, helps you to interact with objects around you "    <<endl;                              
 cout <<" Its a part of the game to figure out different commands and seeing the outcome "  <<endl;
 cout <<" You have the freedom to be as creative and imaginaive as you can"                 <<endl <<endl;
-cout <<" would you like more instructions"                                                 <<endl;
+cout <<" would you like more instructions ?"                                               <<endl;
 cout <<">";
 string welcome;
 getline(cin, welcome);
